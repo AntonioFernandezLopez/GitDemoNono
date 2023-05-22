@@ -6,7 +6,7 @@ package com.mycompany.factorial;
 
 /**
  *
- * @author Antonio <2860075@alu.murciaeduca.es>
+ * @author Antonio
  */
 public class Factorial {
 //Hola Mundo
