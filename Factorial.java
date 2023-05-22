@@ -9,6 +9,7 @@ package com.mycompany.factorial;
  * @author Antonio <2860075@alu.murciaeduca.es>
  */
 public class Factorial {
+//Hola Mundo
     public static int calculo(int n) {
        if (n < 0) {
             throw new IllegalArgumentException("Número " + n + " no puede ser < que 0");
